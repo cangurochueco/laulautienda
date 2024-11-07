@@ -1,0 +1,17 @@
+.container-Navbar {
+  background-color: rgba(187, 184, 184, 0.411);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img-logo {
+  height: 50px;
+}
+.ul-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+  list-style-type: none;
+  color: rgb(233, 99, 9);
+}

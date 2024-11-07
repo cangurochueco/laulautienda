@@ -1,0 +1,11 @@
+.container-card {
+  border-radius: 2rem;
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
+.li {
+  display: flex;
+  gap: 40px;
+  list-style-type: none;
+}
