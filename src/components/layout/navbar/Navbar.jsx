@@ -10,7 +10,7 @@ export const Navbar = () => {
         <li>todo</li>
         <li>remeras de basquet</li>
         <li>pelotas</li>
-        <li>nike jordan</li>
+        <li>nike dunk</li>
       </ul>
       <CardWidget />
     </div>

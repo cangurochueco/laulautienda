@@ -1,3 +1,6 @@
 .container-footer {
-  height: 30px;
+  background-color: rgba(187, 184, 184, 0.411);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
