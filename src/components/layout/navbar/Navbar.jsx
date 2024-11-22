@@ -1,4 +1,4 @@
-import { CardWidget } from "../../common/cardwidget/cardwidget";
+import { CardWidget } from "../../common/cardwidget/CardWidget";
 import "./Navbar.css";
 
 export const Navbar = () => {
